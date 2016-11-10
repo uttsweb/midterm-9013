@@ -140,7 +140,6 @@ main p {
     
 footer{
     width: 100%;
-	border-top: 5px solid #000;
 	background: black;
 	height: 100px;
 	padding: 10px 0 0 10px;
@@ -296,7 +295,6 @@ main{
 footer{
     width: 90%;
 	margin: 0 auto;
-	border-top: 5px solid #000;
 	clear: both;
 	background: black;
 	height: 100px;
@@ -454,7 +452,6 @@ main{
     
 footer{
     width: 100%;
-	border-top: 5px solid #000;
 	clear: both;
 	background: black;
 	height: 100px;
@@ -616,7 +613,6 @@ main{
     
 footer{
     width: 100%;
-	border-top: 5px solid #000;
 	clear: both;
 	background: black;
 	height: 100px;
@@ -653,6 +649,5 @@ footer ul li a:hover{
 
 
 }
-
 
 
